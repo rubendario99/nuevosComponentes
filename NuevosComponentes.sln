@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NuevosComponentes", "NuevosComponentes\NuevosComponentes.csproj", "{C0D0B38B-15B3-4028-9EE7-84DC3820D6B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pruebaLabelTextbox", "pruebaLabelTextbox\pruebaLabelTextbox.csproj", "{2219E6ED-C0D3-49A6-8959-B3710C7AA21B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0D0B38B-15B3-4028-9EE7-84DC3820D6B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0D0B38B-15B3-4028-9EE7-84DC3820D6B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0D0B38B-15B3-4028-9EE7-84DC3820D6B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0D0B38B-15B3-4028-9EE7-84DC3820D6B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2219E6ED-C0D3-49A6-8959-B3710C7AA21B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2219E6ED-C0D3-49A6-8959-B3710C7AA21B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2219E6ED-C0D3-49A6-8959-B3710C7AA21B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2219E6ED-C0D3-49A6-8959-B3710C7AA21B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D08A286B-B860-4304-985F-168482924E2B}
+	EndGlobalSection
+EndGlobal

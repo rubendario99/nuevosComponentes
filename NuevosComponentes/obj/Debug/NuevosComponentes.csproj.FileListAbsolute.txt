@@ -1,0 +1,6 @@
+C:\Users\ruchi\source\repos\NuevosComponentes\NuevosComponentes\bin\Debug\NuevosComponentes.dll
+C:\Users\ruchi\source\repos\NuevosComponentes\NuevosComponentes\bin\Debug\NuevosComponentes.pdb
+C:\Users\ruchi\source\repos\NuevosComponentes\NuevosComponentes\obj\Debug\NuevosComponentes.LabelTextbox.resources
+C:\Users\ruchi\source\repos\NuevosComponentes\NuevosComponentes\obj\Debug\NuevosComponentes.csproj.GenerateResource.cache
+C:\Users\ruchi\source\repos\NuevosComponentes\NuevosComponentes\obj\Debug\NuevosComponentes.dll
+C:\Users\ruchi\source\repos\NuevosComponentes\NuevosComponentes\obj\Debug\NuevosComponentes.pdb

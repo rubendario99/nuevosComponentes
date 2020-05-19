@@ -1,0 +1,12 @@
+C:\Users\ruchi\source\repos\NuevosComponentes\pruebaLabelTextbox\bin\Debug\pruebaLabelTextbox.exe.config
+C:\Users\ruchi\source\repos\NuevosComponentes\pruebaLabelTextbox\bin\Debug\pruebaLabelTextbox.exe
+C:\Users\ruchi\source\repos\NuevosComponentes\pruebaLabelTextbox\bin\Debug\pruebaLabelTextbox.pdb
+C:\Users\ruchi\source\repos\NuevosComponentes\pruebaLabelTextbox\obj\Debug\pruebaLabelTextbox.csprojAssemblyReference.cache
+C:\Users\ruchi\source\repos\NuevosComponentes\pruebaLabelTextbox\obj\Debug\pruebaLabelTextbox.Properties.Resources.resources
+C:\Users\ruchi\source\repos\NuevosComponentes\pruebaLabelTextbox\obj\Debug\pruebaLabelTextbox.csproj.GenerateResource.cache
+C:\Users\ruchi\source\repos\NuevosComponentes\pruebaLabelTextbox\obj\Debug\pruebaLabelTextbox.exe
+C:\Users\ruchi\source\repos\NuevosComponentes\pruebaLabelTextbox\obj\Debug\pruebaLabelTextbox.pdb
+C:\Users\ruchi\source\repos\NuevosComponentes\pruebaLabelTextbox\bin\Debug\NuevosComponentes.dll
+C:\Users\ruchi\source\repos\NuevosComponentes\pruebaLabelTextbox\bin\Debug\NuevosComponentes.pdb
+C:\Users\ruchi\source\repos\NuevosComponentes\pruebaLabelTextbox\obj\Debug\pruebaLabelTextbox.Form1.resources
+C:\Users\ruchi\source\repos\NuevosComponentes\pruebaLabelTextbox\obj\Debug\pruebaLabelTextbox.csproj.CopyComplete
